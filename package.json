@@ -1,0 +1,8 @@
+{
+  "name": "aws-glacier-multipart-upload",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "^2.863.0",
+    "treehash": "0.0.5"
+  }
+}
